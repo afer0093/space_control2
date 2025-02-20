@@ -1,4 +1,4 @@
 /target
 .DS_Store
 /images
-/simulation_data.dat
+simulation_data.dat
